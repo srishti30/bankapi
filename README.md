@@ -3,7 +3,7 @@ this small project shows the use of api and put the data of api in your data tab
 for starting the project
 # TO START THE APPLICATION 
   cd bankapi
-# next step
+# NEXT STEP
   cd src
 # START THE SERVER
    npm start
